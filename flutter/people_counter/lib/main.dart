@@ -45,7 +45,7 @@ class _HomeState extends State<Home> {
             Text(
               "Pessoas: $_people",
               style:
-                  TextStyle(color: Colors.white, fontWeight: FontWeight.bold, ),
+                  TextStyle(color: Colors.white, fontWeight: FontWeight.bold,),
             ),
             Padding(
               padding: EdgeInsets.all(15),

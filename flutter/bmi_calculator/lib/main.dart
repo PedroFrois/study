@@ -18,13 +18,13 @@ class _HomeState extends State<Home> {
 
   GlobalKey<FormState> _formKey = GlobalKey<FormState>();
 
-  String _infoText = "Put your data";
+  String _infoText = "Enter your data";
 
   void _resetFields() {
     weightController.text = "";
     heightController.text = "";
     setState(() {
-      _infoText = "Put your data";
+      _infoText = "Enter your data";
       _formKey = GlobalKey<FormState>();
     });
   }
