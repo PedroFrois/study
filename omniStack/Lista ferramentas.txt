@@ -1,0 +1,5 @@
+Lista de ferramentas utilizadas:
+- node
+- npm
+- express
+- expo
