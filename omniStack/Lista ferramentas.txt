@@ -3,3 +3,7 @@ Lista de ferramentas utilizadas:
 - npm
 - express
 - expo
+- nodemon
+- insomnia
+- modulo CORS
+- knex (query builder)
